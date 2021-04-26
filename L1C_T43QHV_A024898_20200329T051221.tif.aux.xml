@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="European_Commission_Terms_and_Conditions">https://lta.cr.usgs.gov/sites/default/files/Sentinel_Data_Terms_and_Conditions.pdf</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">135.26386251051</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">17.044221497318</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">97.47</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
